@@ -8,3 +8,5 @@ lastFailedBuild
 lastStableBuild
 lastSuccessfulBuild
 lastUnsuccessfulBuild
+lastStable
+lastSuccessful
