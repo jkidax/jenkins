@@ -14,7 +14,7 @@
   <builders>
     <org.jvnet.hudson.plugins.SSHBuilder plugin="ssh@2.4">
       <siteName>@hi:22</siteName>
-      <command>sudo docker restart $CONTAINERd</command>
+      <command>sudo docker restart $CONTAINER</command>
     </org.jvnet.hudson.plugins.SSHBuilder>
   </builders>
   <publishers/>
