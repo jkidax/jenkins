@@ -1,6 +1,6 @@
-build.xml
-changelog.xml
-log
-legacylds
-lastUnstableBuild
-nextBuildNumber
+*build.xml
+*changelog.xml
+*log
+*legacyIds
+*lastUnstableBuild
+*nextBuildNumber
