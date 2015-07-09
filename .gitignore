@@ -1,6 +1,9 @@
-*build.xml
-*changelog.xml
-*log
-*legacyIds
-*lastUnstableBuild
-*nextBuildNumber
+build.xml
+changelog.xml
+log
+legacyIds
+lastUnstableBuild
+nextBuildNumber
+lastFailedBuild
+lastStableBuild
+lastSuccessfulBuild
