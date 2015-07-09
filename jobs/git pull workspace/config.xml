@@ -14,7 +14,7 @@
   <builders>
     <hudson.tasks.Shell>
       <command>cd /home/
-git pull $REPOSITORY</command>
+git pull http</command>
     </hudson.tasks.Shell>
   </builders>
   <publishers/>
