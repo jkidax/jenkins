@@ -13,8 +13,8 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <org.jvnet.hudson.plugins.SSHBuilder plugin="ssh@2.4">
-      <siteName></siteName>
-      <command>sudo docker restart $CONTAINER</command>
+      <siteName>@hi:22</siteName>
+      <command>sudo docker restart $CONTAINERd</command>
     </org.jvnet.hudson.plugins.SSHBuilder>
   </builders>
   <publishers/>
