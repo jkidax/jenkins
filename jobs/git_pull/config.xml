@@ -13,7 +13,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.Shell>
-      <command>cd $JENKINS_HOMEd
+      <command>cd $JENKINS_HOME
 git pull https://github.com/jkidax/jenkins.git</command>
     </hudson.tasks.Shell>
   </builders>
