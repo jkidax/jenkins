@@ -2,8 +2,8 @@
 <org.jenkinsci.plugins.ansible.AnsibleInstallation_-DescriptorImpl plugin="ansible@0.3">
   <installations class="org.jenkinsci.plugins.ansible.AnsibleInstallation-array">
     <org.jenkinsci.plugins.ansible.AnsibleInstallation>
-      <name>/etc/bin</name>
-      <home></home>
+      <name>Ansible</name>
+      <home>/usr/bin</home>
       <properties/>
     </org.jenkinsci.plugins.ansible.AnsibleInstallation>
   </installations>
